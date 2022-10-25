@@ -22,3 +22,7 @@ print(func3(30,40))
 
 def merge(a,b):
     print("why merge can do??")
+
+def ADD_IN_DEVELOP():
+    print("HERE IS DEVELOP")
+
