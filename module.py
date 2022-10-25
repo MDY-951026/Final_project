@@ -14,7 +14,7 @@ print(func2(30,40))
 
 
 def func3(a,b):
-    print(a-b)
-    return a-b
+    print(a*b)
+    return a*b
 
 print(func3(30,40))
