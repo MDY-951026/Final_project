@@ -19,10 +19,5 @@ def func3(a,b):
 
 print(func3(30,40))
 
-def merge_in_main(a,b):
-    print("i don't know about that")
-
-print(merge_in_main(30,40))
-
-def merge(a,b):
-    print("why merge can do??")
+def MERGE_IN_DEVELOP():
+    print("HERE IS DEVELOP")
