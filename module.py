@@ -18,3 +18,7 @@ def func3(a,b):
     return a*b
 
 print(func3(30,40))
+
+
+def merge(a,b):
+    print("why merge can do??")
