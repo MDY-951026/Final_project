@@ -23,3 +23,6 @@ def merge_in_main(a,b):
     print("i don't know about that")
 
 print(merge_in_main(30,40))
+
+def merge(a,b):
+    print("why merge can do??")
